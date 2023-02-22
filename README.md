@@ -43,8 +43,7 @@ The DVD rental database represents the business processes of a DVD rental store.
 
 Build small Data Warehouse in PostgreSQL RDBMS. Convert 3NF Data Model into the Star Schema. [Here](https://github.com/Manav-56/Data-Warehouse-using-PostgreSQL/blob/main/start_schema.png)
 
-
-
+Also a SQL Script for this creation find here. [Here](https://github.com/Manav-56/Data-Warehouse-using-PostgreSQL/blob/main/query.sql)
 ## Steps:
  - Load Data into RDBMS
  - Understand database Schema
